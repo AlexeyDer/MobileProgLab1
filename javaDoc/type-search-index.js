@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.example.mobileproglab1","l":"ExampleInstrumentedTest"},{"p":"com.example.mobileproglab1","l":"ExampleUnitTest"},{"p":"com.example.mobileproglab1","l":"MainActivity"},{"p":"com.example.mobileproglab1","l":"MainActivityTest"}]
